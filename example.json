@@ -1,0 +1,5 @@
+[
+ {"type": "tcp", "endpoint": "www.google.com:80", "timeout": 3},
+ {"type": "tcp", "endpoint": "www.google2.com:80", "timeout": 3},
+ {"type": "tcp", "endpoint": "thissitedoesntexist.com:80", "timeout": 3}
+]
