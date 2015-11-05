@@ -1,5 +1,5 @@
 # goconch
-goconch is a simple TCP connectivity checker written in go.  Currently it only supports TCP connections and basic availability statistics and logging.
+GOCONnectivityCHecker is a simple TCP connectivity checker written in go.  Currently it only supports TCP connections and basic availability statistics and logging.
 
 ![GoConch](https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sea_shell_%28Trinidad_%26_Tobago_2009%29.jpg/220px-Sea_shell_%28Trinidad_%26_Tobago_2009%29.jpg)
 
